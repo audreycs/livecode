@@ -1,0 +1,1 @@
+python3 run_and_capture.py

@@ -1,0 +1,6 @@
+Running check_solution.py
+OK for input ['leet', 'code'], e: got [0, 1]
+OK for input ['abc', 'bcd', 'aaaa', 'cbc'], a: got [0, 2]
+OK for input ['abc', 'bcd', 'aaaa', 'cbc'], z: got []
+All tests passed
+
